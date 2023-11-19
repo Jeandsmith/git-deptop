@@ -16,6 +16,7 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 dependencies = ["pytest-cov", "pytest"]
+dynamic = ["scripts", "license"]
 
 [project.urls]
 Homepage = "https://github.com/Jeandsmith/git-deptop"
