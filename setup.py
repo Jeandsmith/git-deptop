@@ -3,6 +3,7 @@ import setuptools
 with open('README.md', encoding='utf-8') as fh:
     long_description = fh.read()
 
+# Setting up the project
 setuptools.setup(
     long_description=long_description,
     long_description_content_type='text/markdown',
