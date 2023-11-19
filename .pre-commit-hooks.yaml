@@ -1,1 +1,5 @@
-id: git-deptop
+- id: git-deptop
+  name: Adds dependency information to current describing cross repo-dependencies
+  entry: .
+  language: python
+  types: [text]
